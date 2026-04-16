@@ -1,14 +1,18 @@
-# Scoop Bucket for Easy NATS
+# scoop-bucket
 
-A [Scoop](https://scoop.sh) bucket for [Easy NATS](https://github.com/mcthesw/easy-nats).
+A [Scoop](https://scoop.sh) bucket for Sworld's projects.
 
-## Installation
+## Available
+
+| App | Install |
+|-----|---------|
+| easy-nats | `scoop install easy-nats` |
+
+## Usage
 
 ```powershell
-scoop bucket add easy-nats https://github.com/mcthesw/scoop-bucket
-scoop install easy-nats
+scoop bucket add sworld https://github.com/mcthesw/scoop-bucket
+scoop install <app>
 ```
 
-## Auto-update
-
-Manifests are updated automatically on each release via GitHub Actions.
+Manifests are updated automatically on each release.
