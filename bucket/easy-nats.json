@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mcthesw/easy-nats/releases/download/v0.1.18/easy-nats-windows-x86_64.zip",
-            "hash": "17fb1eca54395510c72b639f7729c47c1e4f5b8e73f77666b412d2dedccc8e04"
+            "hash": "b20ab1b1aae51b6733d6724018496eb1b273b79ff8c43d46a5027803943c78a9"
         }
     },
     "bin": "easy-nats.exe",
