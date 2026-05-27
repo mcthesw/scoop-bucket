@@ -1,12 +1,12 @@
 {
-    "version": "0.1.21",
+    "version": "0.1.22",
     "description": "Desktop GUI client for NATS servers, JetStream, KV, and Object Store",
     "homepage": "https://github.com/mcthesw/easy-nats",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mcthesw/easy-nats/releases/download/v0.1.21/easy-nats-windows-x86_64.zip",
-            "hash": "1853198cf6276e2a2b09c10292e823d6652e18c53ba8960a47fe197b0ddb2626"
+            "url": "https://github.com/mcthesw/easy-nats/releases/download/v0.1.22/easy-nats-windows-x86_64.zip",
+            "hash": "df4ae78a926321c28870239f10b1aea9c31e562285acc216bce52f754757f0af"
         }
     },
     "bin": "easy-nats.exe",
